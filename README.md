@@ -1,1 +1,1 @@
-# SEC110-Intro-to-Cybersecurity
+# TechJournal SEC110
